@@ -1,0 +1,72 @@
+body {
+	width: 1400px;
+	height: 940px;
+	box-shadow: 0px 0px 20px 5px #bebebe;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    
+}
+div {
+	width: 1160px;
+	padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+h1 {
+	font-family: PlayfairDisplay;
+	color:  #171717;
+	font-size: 42px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 400;
+	text-align: left;
+}
+#text:first-letter {
+	font-family: PlayfairDisplay;
+	color:  #171717;
+	font-size: 110px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 400;
+	line-height: 34px;/* Приближение из-за подстановки шрифтов */
+	text-align: left;
+	float: left;
+	margin-top: 10px;
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 10px;
+}
+#text {
+	font-family: Lato;
+	color:  #171717;
+	font-size: 18px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 300;
+	line-height: 34px;/* Приближение из-за подстановки шрифтов */
+	text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+}
+#text2 {
+	font-family: Lato;
+	color:  #171717;
+	font-size: 24px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 300;
+	line-height: 34px;/* Приближение из-за подстановки шрифтов */
+	text-align: left;
+}
+
+button {
+	background-color: white;
+	border-width: 2px;
+	border-color:  #eaa258;
+	border-style: solid;
+	width: 260px;
+	height: 64px;
+	font-family: Lato;
+	color:  #eaa258;
+	font-size: 18px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 700;
+	line-height: 34px;/* Приближение из-за подстановки шрифтов */
+	text-align: center;
+	margin-top: 50px;
+}
